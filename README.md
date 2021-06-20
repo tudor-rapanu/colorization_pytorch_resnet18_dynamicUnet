@@ -1,4 +1,4 @@
-# colorization_pytorch_resnet18_dynamicUnet
+Colorizing Black and White images with Deep Learning
 
 Download the res18-unet.pt and final_model_weights.pt for the program to work.
 Find them here:
